@@ -7,7 +7,6 @@
   "repository": "git://github.com/heliaxdev/rescript-react-feather.git",
   "author": "Heliax AG",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "build": "cargo run && rescript format -all && rescript"
   },
