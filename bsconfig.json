@@ -1,5 +1,5 @@
 {
-  "name": "rescript-react-feather",
+  "name": "@heliaxdev/rescript-react-feather",
   "reason": { "react-jsx": 3 },
   "sources": [
     {
