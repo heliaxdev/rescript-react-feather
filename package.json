@@ -1,0 +1,23 @@
+{
+  "name": "@heliaxdev/rescript-react-feather",
+  "version": "1.0.0",
+  "description": "ReScript bindings for the react-feather library",
+  "keywords": ["rescript", "react", "react-feather"],
+  "main": "index.js",
+  "repository": "git://github.com/heliaxdev/rescript-react-feather.git",
+  "author": "Heliax AG",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "cargo run && rescript format -all && rescript"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9"
+  },
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  }
+}
