@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": "git://github.com/heliaxdev/rescript-react-feather.git",
   "author": "Heliax AG",
-  "license": "MIT",
+  "license": "GPL3",
   "scripts": {
     "build": "cargo run && rescript format -all && rescript build -with-deps"
   },
