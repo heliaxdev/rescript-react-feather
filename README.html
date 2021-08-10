@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>README.html</title>
+<meta http-equiv="Content-Type" content="application/xhtml+xml;charset=utf-8"/>
+<link rel="stylesheet" type="text/css" media="all" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css"  />
+<link rel="stylesheet" type="text/css" media="all" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/github.min.css"  /><meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'><style> body { box-sizing: border-box; max-width: 740px; width: 100%; margin: 40px auto; padding: 0 10px; } </style><script id='MathJax-script' async src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'></script><script src='https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js'></script><script>document.addEventListener('DOMContentLoaded', () => { document.body.classList.add('markdown-body'); document.querySelectorAll('pre[lang] > code').forEach((code) => { code.classList.add(code.parentElement.lang); }); document.querySelectorAll('pre > code').forEach((code) => { hljs.highlightBlock(code); }); });</script>
+</head>
+
+<body>
+
+<h1 align="center">ReScript React Feather</h1>
+
+<p><a href="./LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a></p>
+<p>ReScript binding generator for the <a href="https://github.com/feathericons/react-feather">react-feather</a> library</p>
+<h2 id="installation">Installation</h2>
+<p>First run the below commands to install the dependencies:</p>
+<pre><code class="language-sh">yarn add @heliaxdev/rescript-react-feather react-feather
+</code></pre>
+<p>Then, add <code>@heliaxdev/rescript-react-feather</code> to <code>bs-dependencies</code>, i.e.:</p>
+<pre><code class="language-json">{
+  ...
+&quot;bs-dependencies&quot;: [
+    &quot;@rescript/react&quot;,
+    &quot;@heliaxdev/rescript-react-feather&quot;
+  ],
+}
+</code></pre>
+<p>And you should be good to go.</p>
+<h2 id="usage">Usage</h2>
+<p>This library can be used in two ways:</p>
+<h3 id="zero-cost-bindings">Zero-cost bindings</h3>
+<p>This library has zero-cost bindings for every icon in the official <a href="https://github.com/feathericons/react-feather/blob/master/src/index.d.ts">TypeScript type definitions</a>.</p>
+<p>You can use them like this:</p>
+<pre><code class="language-rescript">module CancelButton = {
+    @react.component
+    let make = () =&gt; {
+        &lt;button ariaLabel=&quot;Cancel this, please&quot;&gt;
+           &lt;ReactFeather.X color=&quot;red&quot; size=20 className=&quot;my-cross-icon&quot; /&gt; 
+        &lt;/button&gt;
+    }
+}
+</code></pre>
+<h3 id="icon-component"><code>Icon</code> component</h3>
+<p>Aside from the zero-cost bindings, this library also generates an <code>&lt;Icon /&gt;</code> component that receives an icon name polyvariant as a prop.</p>
+<p>It can be used like this:</p>
+<pre><code class="language-rescript">module ConfirmButton = {
+    @react.component
+    let make = () =&gt; {
+        &lt;button ariaLabel=&quot;Confirm this, please&quot;&gt;
+            &lt;ReactFeather.Icon name=#Check color=&quot;green&quot; size=20 className=&quot;my-check-icon&quot; /&gt;
+        &lt;/button&gt;
+    }
+}
+</code></pre>
+<h2 id="props">Props</h2>
+<p>Except for the extra <code>name</code> prop in <code>ReactFeather.Icon</code>, all components have the following type:</p>
+<pre><code class="language-rescript">external make: (~color: string=?, ~size: int=?, ~className: string=?) =&gt; React.element
+</code></pre>
+
+
+</body>
+</html>
