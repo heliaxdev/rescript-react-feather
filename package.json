@@ -1,6 +1,6 @@
 {
   "name": "@heliaxdev/rescript-react-feather",
-  "version": "1.0.2",
+  "version": "2.0.9",
   "description": "ReScript bindings for the react-feather library",
   "keywords": ["rescript", "react", "react-feather"],
   "main": "index.js",
