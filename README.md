@@ -15,8 +15,7 @@ Then, add `@heliaxdev/rescript-react-feather` to `bs-dependencies`, i.e.:
 
 ``` json
 {
-  ...
-"bs-dependencies": [
+  "bs-dependencies": [
     "@rescript/react",
     "@heliaxdev/rescript-react-feather"
   ],
