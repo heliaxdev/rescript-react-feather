@@ -4,7 +4,7 @@
   "description": "ReScript bindings for the react-feather library",
   "keywords": ["rescript", "react", "react-feather"],
   "main": "ReactFeather.bs.js",
-  "files": ["src/ReactFeather.res", "src/ReactFeather.bs.js"],
+  "files": ["src/ReactFeather.res", "src/ReactFeather.bs.js", "bsconfig.json"],
   "repository": "git://github.com/heliaxdev/rescript-react-feather.git",
   "author": "Heliax AG",
   "license": "GPL3",
