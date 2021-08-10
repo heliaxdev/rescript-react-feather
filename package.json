@@ -1,6 +1,6 @@
 {
   "name": "@heliaxdev/rescript-react-feather",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ReScript bindings for the react-feather library",
   "keywords": ["rescript", "react", "react-feather"],
   "main": "index.js",
@@ -8,7 +8,7 @@
   "author": "Heliax AG",
   "license": "MIT",
   "scripts": {
-    "build": "cargo run && rescript format -all && rescript"
+    "build": "cargo run && rescript format -all && rescript build -with-deps"
   },
   "dependencies": {
     "@rescript/react": "^0.10.3",
