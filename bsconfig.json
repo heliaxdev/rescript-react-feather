@@ -13,8 +13,15 @@
       "in-source": true
     }
   ],
-  "bs-dependencies": [
-      "@rescript/react"
-  ],
+  "bs-dependencies": ["@rescript/react"],
+  "gentypeconfig": {
+    "language": "typescript",
+    "shims": {},
+    "generatedFileExtension": ".gen.tsx",
+    "debug": {
+      "all": false,
+      "basic": false
+    }
+  },
   "suffix": ".bs.js"
 }

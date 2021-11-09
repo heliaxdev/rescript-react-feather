@@ -31,6 +31,7 @@ impl Icon {
             "
             module {0} = {{
                 @module(\"react-feather\")
+                @genType
                 @react.component
                 external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = \"{0}\"
             }}",
@@ -62,7 +63,7 @@ impl Icon {
 
     pub fn print_patterns(icons: &Vec<Icon>) -> String {
         let beginning = "
-        @react.component
+        @genType @react.component
         let make = (~name: name, ~color=?, ~size=?, ~className=?) => {
             switch name {";
 

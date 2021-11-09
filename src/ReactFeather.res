@@ -1,1567 +1,1567 @@
 module Activity = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Activity"
 }
 
 module Airplay = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Airplay"
 }
 
 module AlertCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlertCircle"
 }
 
 module AlertOctagon = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlertOctagon"
 }
 
 module AlertTriangle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlertTriangle"
 }
 
 module AlignCenter = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlignCenter"
 }
 
 module AlignJustify = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlignJustify"
 }
 
 module AlignLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlignLeft"
 }
 
 module AlignRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "AlignRight"
 }
 
 module Anchor = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Anchor"
 }
 
 module Aperture = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Aperture"
 }
 
 module Archive = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Archive"
 }
 
 module ArrowDownCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowDownCircle"
 }
 
 module ArrowDownLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowDownLeft"
 }
 
 module ArrowDownRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowDownRight"
 }
 
 module ArrowDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowDown"
 }
 
 module ArrowLeftCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowLeftCircle"
 }
 
 module ArrowLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowLeft"
 }
 
 module ArrowRightCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowRightCircle"
 }
 
 module ArrowRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowRight"
 }
 
 module ArrowUpCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowUpCircle"
 }
 
 module ArrowUpLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowUpLeft"
 }
 
 module ArrowUpRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ArrowUpRight"
 }
 
 module ArrowUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "ArrowUp"
 }
 
 module AtSign = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "AtSign"
 }
 
 module Award = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Award"
 }
 
 module BarChart2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "BarChart2"
 }
 
 module BarChart = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "BarChart"
 }
 
 module BatteryCharging = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "BatteryCharging"
 }
 
 module Battery = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Battery"
 }
 
 module BellOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "BellOff"
 }
 
 module Bell = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Bell"
 }
 
 module Bluetooth = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Bluetooth"
 }
 
 module Bold = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Bold"
 }
 
 module BookOpen = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "BookOpen"
 }
 
 module Book = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Book"
 }
 
 module Bookmark = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Bookmark"
 }
 
 module Box = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Box"
 }
 
 module Briefcase = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Briefcase"
 }
 
 module Calendar = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Calendar"
 }
 
 module CameraOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CameraOff"
 }
 
 module Camera = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Camera"
 }
 
 module Cast = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Cast"
 }
 
 module CheckCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CheckCircle"
 }
 
 module CheckSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CheckSquare"
 }
 
 module Check = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Check"
 }
 
 module ChevronDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronDown"
 }
 
 module ChevronLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronLeft"
 }
 
 module ChevronRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronRight"
 }
 
 module ChevronUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronUp"
 }
 
 module ChevronsDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronsDown"
 }
 
 module ChevronsLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronsLeft"
 }
 
 module ChevronsRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronsRight"
 }
 
 module ChevronsUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ChevronsUp"
 }
 
 module Chrome = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Chrome"
 }
 
 module Circle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Circle"
 }
 
 module Clipboard = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Clipboard"
 }
 
 module Clock = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Clock"
 }
 
 module CloudDrizzle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CloudDrizzle"
 }
 
 module CloudLightning = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CloudLightning"
 }
 
 module CloudOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CloudOff"
 }
 
 module CloudRain = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CloudRain"
 }
 
 module CloudSnow = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CloudSnow"
 }
 
 module Cloud = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Cloud"
 }
 
 module Code = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Code"
 }
 
 module Codepen = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Codepen"
 }
 
 module Codesandbox = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Codesandbox"
 }
 
 module Coffee = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Coffee"
 }
 
 module Columns = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Columns"
 }
 
 module Command = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Command"
 }
 
 module Compass = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Compass"
 }
 
 module Copy = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Copy"
 }
 
 module CornerDownLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerDownLeft"
 }
 
 module CornerDownRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerDownRight"
 }
 
 module CornerLeftDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerLeftDown"
 }
 
 module CornerLeftUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerLeftUp"
 }
 
 module CornerRightDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerRightDown"
 }
 
 module CornerRightUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerRightUp"
 }
 
 module CornerUpLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerUpLeft"
 }
 
 module CornerUpRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CornerUpRight"
 }
 
 module Cpu = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Cpu"
 }
 
 module CreditCard = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "CreditCard"
 }
 
 module Crop = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Crop"
 }
 
 module Crosshair = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Crosshair"
 }
 
 module Database = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Database"
 }
 
 module Delete = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Delete"
 }
 
 module Disc = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Disc"
 }
 
 module DivideCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "DivideCircle"
 }
 
 module DivideSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "DivideSquare"
 }
 
 module Divide = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Divide"
 }
 
 module DollarSign = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "DollarSign"
 }
 
 module DownloadCloud = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "DownloadCloud"
 }
 
 module Download = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Download"
 }
 
 module Dribbble = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Dribbble"
 }
 
 module Droplet = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Droplet"
 }
 
 module Edit2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Edit2"
 }
 
 module Edit3 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Edit3"
 }
 
 module Edit = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Edit"
 }
 
 module ExternalLink = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ExternalLink"
 }
 
 module EyeOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "EyeOff"
 }
 
 module Eye = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Eye"
 }
 
 module Facebook = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Facebook"
 }
 
 module FastForward = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FastForward"
 }
 
 module Feather = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Feather"
 }
 
 module Figma = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Figma"
 }
 
 module FileMinus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FileMinus"
 }
 
 module FilePlus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FilePlus"
 }
 
 module FileText = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FileText"
 }
 
 module File = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "File"
 }
 
 module Film = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Film"
 }
 
 module Filter = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Filter"
 }
 
 module Flag = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Flag"
 }
 
 module FolderMinus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FolderMinus"
 }
 
 module FolderPlus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "FolderPlus"
 }
 
 module Folder = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Folder"
 }
 
 module Framer = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Framer"
 }
 
 module Frown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Frown"
 }
 
 module Gift = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Gift"
 }
 
 module GitBranch = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "GitBranch"
 }
 
 module GitCommit = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "GitCommit"
 }
 
 module GitMerge = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "GitMerge"
 }
 
 module GitPullRequest = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "GitPullRequest"
 }
 
 module GitHub = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "GitHub"
 }
 
 module Gitlab = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Gitlab"
 }
 
 module Globe = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Globe"
 }
 
 module Grid = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Grid"
 }
 
 module HardDrive = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "HardDrive"
 }
 
 module Hash = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Hash"
 }
 
 module Headphones = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Headphones"
 }
 
 module Heart = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Heart"
 }
 
 module HelpCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "HelpCircle"
 }
 
 module Hexagon = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Hexagon"
 }
 
 module Home = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Home"
 }
 
 module Image = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Image"
 }
 
 module Inbox = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Inbox"
 }
 
 module Info = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Info"
 }
 
 module Instagram = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Instagram"
 }
 
 module Italic = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Italic"
 }
 
 module Key = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Key"
 }
 
 module Layers = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Layers"
 }
 
 module Layout = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Layout"
 }
 
 module LifeBuoy = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "LifeBuoy"
 }
 
 module Link2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Link2"
 }
 
 module Link = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Link"
 }
 
 module Linkedin = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Linkedin"
 }
 
 module List = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "List"
 }
 
 module Loader = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Loader"
 }
 
 module Lock = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Lock"
 }
 
 module LogIn = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "LogIn"
 }
 
 module LogOut = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "LogOut"
 }
 
 module Mail = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Mail"
 }
 
 module MapPin = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "MapPin"
 }
 
 module Map = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Map"
 }
 
 module Maximize2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Maximize2"
 }
 
 module Maximize = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Maximize"
 }
 
 module Meh = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Meh"
 }
 
 module Menu = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Menu"
 }
 
 module MessageCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MessageCircle"
 }
 
 module MessageSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MessageSquare"
 }
 
 module MicOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "MicOff"
 }
 
 module Mic = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Mic"
 }
 
 module Minimize2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Minimize2"
 }
 
 module Minimize = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Minimize"
 }
 
 module MinusCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MinusCircle"
 }
 
 module MinusSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MinusSquare"
 }
 
 module Minus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Minus"
 }
 
 module Monitor = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Monitor"
 }
 
 module Moon = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Moon"
 }
 
 module MoreHorizontal = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MoreHorizontal"
 }
 
 module MoreVertical = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MoreVertical"
 }
 
 module MousePointer = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "MousePointer"
 }
 
 module Move = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Move"
 }
 
 module Music = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Music"
 }
 
 module Navigation2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Navigation2"
 }
 
 module Navigation = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Navigation"
 }
 
 module Octagon = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Octagon"
 }
 
 module Package = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Package"
 }
 
 module Paperclip = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Paperclip"
 }
 
 module PauseCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PauseCircle"
 }
 
 module Pause = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Pause"
 }
 
 module PenTool = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "PenTool"
 }
 
 module Percent = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Percent"
 }
 
 module PhoneCall = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneCall"
 }
 
 module PhoneForwarded = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneForwarded"
 }
 
 module PhoneIncoming = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneIncoming"
 }
 
 module PhoneMissed = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneMissed"
 }
 
 module PhoneOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneOff"
 }
 
 module PhoneOutgoing = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PhoneOutgoing"
 }
 
 module Phone = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Phone"
 }
 
 module PieChart = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PieChart"
 }
 
 module PlayCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PlayCircle"
 }
 
 module Play = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Play"
 }
 
 module PlusCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PlusCircle"
 }
 
 module PlusSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "PlusSquare"
 }
 
 module Plus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Plus"
 }
 
 module Pocket = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Pocket"
 }
 
 module Power = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Power"
 }
 
 module Printer = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Printer"
 }
 
 module Radio = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Radio"
 }
 
 module RefreshCcw = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "RefreshCcw"
 }
 
 module RefreshCw = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "RefreshCw"
 }
 
 module Repeat = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Repeat"
 }
 
 module Rewind = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Rewind"
 }
 
 module RotateCcw = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "RotateCcw"
 }
 
 module RotateCw = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "RotateCw"
 }
 
 module Rss = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Rss"
 }
 
 module Save = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Save"
 }
 
 module Scissors = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Scissors"
 }
 
 module Search = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Search"
 }
 
 module Send = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Send"
 }
 
 module Server = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Server"
 }
 
 module Settings = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Settings"
 }
 
 module Share2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Share2"
 }
 
 module Share = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Share"
 }
 
 module ShieldOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ShieldOff"
 }
 
 module Shield = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Shield"
 }
 
 module ShoppingBag = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ShoppingBag"
 }
 
 module ShoppingCart = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ShoppingCart"
 }
 
 module Shuffle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Shuffle"
 }
 
 module Sidebar = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Sidebar"
 }
 
 module SkipBack = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "SkipBack"
 }
 
 module SkipForward = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "SkipForward"
 }
 
 module Slack = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Slack"
 }
 
 module Slash = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Slash"
 }
 
 module Sliders = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Sliders"
 }
 
 module Smartphone = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Smartphone"
 }
 
 module Smile = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Smile"
 }
 
 module Speaker = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Speaker"
 }
 
 module Square = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Square"
 }
 
 module Star = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Star"
 }
 
 module StopCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "StopCircle"
 }
 
 module Sun = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Sun"
 }
 
 module Sunrise = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Sunrise"
 }
 
 module Sunset = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Sunset"
 }
 
 module Tablet = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Tablet"
 }
 
 module Tag = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Tag"
 }
 
 module Target = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Target"
 }
 
 module Terminal = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Terminal"
 }
 
 module Thermometer = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Thermometer"
 }
 
 module ThumbsDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ThumbsDown"
 }
 
 module ThumbsUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ThumbsUp"
 }
 
 module ToggleLeft = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ToggleLeft"
 }
 
 module ToggleRight = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "ToggleRight"
 }
 
 module Tool = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Tool"
 }
 
 module Trash2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Trash2"
 }
 
 module Trash = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Trash"
 }
 
 module Trello = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Trello"
 }
 
 module TrendingDown = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "TrendingDown"
 }
 
 module TrendingUp = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "TrendingUp"
 }
 
 module Triangle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Triangle"
 }
 
 module Truck = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Truck"
 }
 
 module Tv = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Tv"
 }
 
 module Twitch = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Twitch"
 }
 
 module Twitter = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Twitter"
 }
 
 module Type = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Type"
 }
 
 module Umbrella = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Umbrella"
 }
 
 module Underline = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Underline"
 }
 
 module Unlock = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Unlock"
 }
 
 module UploadCloud = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "UploadCloud"
 }
 
 module Upload = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Upload"
 }
 
 module UserCheck = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "UserCheck"
 }
 
 module UserMinus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "UserMinus"
 }
 
 module UserPlus = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "UserPlus"
 }
 
 module UserX = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "UserX"
 }
 
 module User = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "User"
 }
 
 module Users = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Users"
 }
 
 module VideoOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "VideoOff"
 }
 
 module Video = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Video"
 }
 
 module Voicemail = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "Voicemail"
 }
 
 module Volume1 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Volume1"
 }
 
 module Volume2 = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Volume2"
 }
 
 module VolumeX = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "VolumeX"
 }
 
 module Volume = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Volume"
 }
 
 module Watch = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Watch"
 }
 
 module WifiOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "WifiOff"
 }
 
 module Wifi = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Wifi"
 }
 
 module Wind = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Wind"
 }
 
 module XCircle = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "XCircle"
 }
 
 module XOctagon = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element =
     "XOctagon"
 }
 
 module XSquare = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "XSquare"
 }
 
 module X = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "X"
 }
 
 module Youtube = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Youtube"
 }
 
 module ZapOff = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "ZapOff"
 }
 
 module Zap = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "Zap"
 }
 
 module ZoomIn = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "ZoomIn"
 }
 
 module ZoomOut = {
-  @module("react-feather") @react.component
+  @module("react-feather") @genType @react.component
   external make: (~color: string=?, ~size: int=?, ~className: string=?) => React.element = "ZoomOut"
 }
 
@@ -1854,7 +1854,7 @@ type name = [
   | #ZoomOut
 ]
 
-@react.component
+@genType @react.component
 let make = (~name: name, ~color=?, ~size=?, ~className=?) => {
   switch name {
   | #Activity => <Activity ?color ?size ?className />
