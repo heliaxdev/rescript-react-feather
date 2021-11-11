@@ -1,6 +1,6 @@
 {
   "name": "@heliaxdev/rescript-react-feather",
-  "version": "2.0.9-2",
+  "version": "2.0.9-3",
   "description": "ReScript bindings for the react-feather library",
   "keywords": [
     "rescript",
@@ -10,8 +10,6 @@
   "main": "ReactFeather.bs.js",
   "files": [
     "src/ReactFeather.res",
-    "src/ReactFeather.bs.js",
-    "src/ReactFeather.gen.tsx",
     "bsconfig.json"
   ],
   "repository": "git://github.com/heliaxdev/rescript-react-feather.git",
